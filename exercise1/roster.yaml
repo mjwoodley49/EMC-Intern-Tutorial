@@ -13,3 +13,7 @@ employees:
   email: ryan.howard@noaa.gov
   supervisor:
   - Michael Scott
+- name: Madison Woodley
+  email: madison.woodley@noaa.gov
+  supervisor:
+  - Mike Barlage
